@@ -11,7 +11,7 @@ This project is from a tutorial from youtube channer **Sources de l'Informaticie
      Part 4 : https://www.youtube.com/watch?v=sQnhUe8eyo0
 ###### Frontend Web avec Angular :
      Part 5 : https://www.youtube.com/watch?v=mT-pAR2IRSs
-     Part 6 :  https://www.youtube.com/watch?v=rMiOTMaldSk
+     Part 6 : https://www.youtube.com/watch?v=rMiOTMaldSk
      
 ----------------------------------------------------------
 
