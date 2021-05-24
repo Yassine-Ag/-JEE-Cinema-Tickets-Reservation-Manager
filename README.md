@@ -1,4 +1,4 @@
-##Cinema Manager
+# Cinema Manager
 This is a Cinema management web page developping using JEE.
 This project is from a tutorial from youtube channer **Sources de l'Informaticien avec Pr.Mohamed YOUSSFI**.
 
