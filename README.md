@@ -18,7 +18,7 @@ This project is from a tutorial from youtube channer **Sources de l'Informaticie
 
 > First u need to choose the city:
 
-    ![image](https://user-images.githubusercontent.com/18411357/119386434-6b4e4880-bcbf-11eb-8918-9542e0cd62e0.png)
+    ![Image](https://user-images.githubusercontent.com/18411357/119386434-6b4e4880-bcbf-11eb-8918-9542e0cd62e0.png)
     
     
 > After, you have to choose the cinema:
@@ -28,7 +28,7 @@ This project is from a tutorial from youtube channer **Sources de l'Informaticie
 
 > Then you can see a list of room theater plus their informations
 
-    ![image](https://user-images.githubusercontent.com/18411357/119386940-2545b480-bcc0-11eb-86f2-e39b54f2fd8b.png)
+    ![image](https://user-images.githubusercontent.com/18411357/119386940-2545b480-bcc0-11eb-86f2-e39b54f2fd8b.png")
 
 
 > When clicking on the session, a list of reserved tickets will pop-up:
